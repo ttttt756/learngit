@@ -1,3 +1,4 @@
+$cat readme.txt
 wrote a readme file. 
 Git is a distributed version conrol system.
 Git is free software distributed under the GPL.

@@ -2,7 +2,7 @@ $cat readme.txt
 wrote a readme file. 
 Git is a distributed version conrol system.
 Git is free software distributed under the GPL.
-Git has a mutable index called stage.
+Git is a free software...
 hello github
 
 Creating a new branch is quick & simple.
